@@ -9,4 +9,4 @@ resources:
 images:
   - name: amarathon
     newName: ghcr.io/krishnarajt/amarathon
-    newTag: git-initial
+    newTag: git-806400211eaf812f64a59d5165bcb3424dae499e
